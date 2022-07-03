@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      "angular-google-tag-manager@1.1.4",
+      "C:\\projects\\switch-web"
+    ]
+  ],
+  "_from": "angular-google-tag-manager@1.1.4",
+  "_id": "angular-google-tag-manager@1.1.4",
+  "_inBundle": false,
+  "_integrity": "sha512-oX0t+yJWK0mrPpanXhSU8O2SYpFPIwLaHA+RG1aTxk/Rc5Zuito1XRMsZUjYFJ7OSTbL+Y79DNawO3ALsT+SEw==",
+  "_location": "/angular-google-tag-manager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "angular-google-tag-manager@1.1.4",
+    "name": "angular-google-tag-manager",
+    "escapedName": "angular-google-tag-manager",
+    "rawSpec": "1.1.4",
+    "saveSpec": null,
+    "fetchSpec": "1.1.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-google-tag-manager/-/angular-google-tag-manager-1.1.4.tgz",
+  "_spec": "1.1.4",
+  "_where": "C:\\projects\\switch-web",
+  "author": {
+    "name": "marcozuccaroli@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mzuccaroli/angular-google-tag-manager/issues"
+  },
+  "contributors": [
+    {
+      "name": "Marco Zuccaroli",
+      "email": "marcozuccaroli@gmail.com"
+    },
+    {
+      "name": "Nils Thomann",
+      "email": "nils.thomann@quickline.ch"
+    }
+  ],
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "description": "A service library for integrate google tag manager in your angular project",
+  "es2015": "fesm2015/angular-google-tag-manager.js",
+  "esm2015": "esm2015/angular-google-tag-manager.js",
+  "esm5": "esm5/angular-google-tag-manager.js",
+  "fesm2015": "fesm2015/angular-google-tag-manager.js",
+  "fesm5": "fesm5/angular-google-tag-manager.js",
+  "homepage": "https://github.com/mzuccaroli/angular-google-tag-manager#readme",
+  "license": "MIT",
+  "main": "bundles/angular-google-tag-manager.umd.js",
+  "metadata": "angular-google-tag-manager.metadata.json",
+  "module": "fesm5/angular-google-tag-manager.js",
+  "name": "angular-google-tag-manager",
+  "peerDependencies": {
+    "@angular/common": "^8.2",
+    "@angular/core": "^8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzuccaroli/angular-google-tag-manager.git"
+  },
+  "sideEffects": false,
+  "typings": "angular-google-tag-manager.d.ts",
+  "version": "1.1.4"
+}
